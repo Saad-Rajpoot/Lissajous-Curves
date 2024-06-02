@@ -12,6 +12,10 @@ Interactive Flutter app visualizing Lissajous curves with a dynamic slider.
 
 ## Screenshots
 
+<p align="start">
+ <iframe src="https://player.vimeo.com/video/VIDEO_ID_HERE?title=0&byline=0&portrait=0" width="340"  allow="autoplay; fullscreen" allowfullscreen></iframe>
+</p>
+
 
 
 
