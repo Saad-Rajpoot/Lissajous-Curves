@@ -1,4 +1,4 @@
-# lissajous_curves
+# Lissajous Curves
 
 Interactive Flutter app visualizing Lissajous curves with a dynamic slider.
 
@@ -13,10 +13,9 @@ Interactive Flutter app visualizing Lissajous curves with a dynamic slider.
 ## Screenshots
 
 <p align="start">
- <iframe src="https://player.vimeo.com/video/VIDEO_ID_HERE?title=0&byline=0&portrait=0" width="340"  allow="autoplay; fullscreen" allowfullscreen></iframe>
+<img src="https://github.com/Saad-Rajpoot/Lissajous-Curves/assets/72617801/7836abd2-dded-4e6d-ba48-f30437bcc5bf" alt="Lissajous 1" width="320"/>
+  <img src="https://github.com/Saad-Rajpoot/Lissajous-Curves/assets/72617801/4c20b092-fd4f-4d4e-a724-61c6db505144" alt="Lissajous 2" width="320"/>
 </p>
-
-
 
 
 ## Getting Started
